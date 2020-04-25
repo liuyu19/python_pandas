@@ -1,0 +1,6 @@
+i	dbcode	exp	id	isParent	name	open	pid	wd
+0	fsnd		00	False	全部地区	False		reg
+1	fsnd		100000	True	常规分类	False		reg
+2	fsnd		200000	True	热点地区	False		reg
+3	fsnd		800000	True	八大经济区域	False		reg
+4	fsnd		900000	True	三大地带	False		reg

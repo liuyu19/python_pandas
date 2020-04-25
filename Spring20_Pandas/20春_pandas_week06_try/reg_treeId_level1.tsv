@@ -1,0 +1,23 @@
+i	dbcode	exp	id	isParent	name	open	pid	wd
+0	fsnd		100001	False	华北	False	100000	reg
+1	fsnd		100002	False	东北	False	100000	reg
+2	fsnd		100003	False	华东	False	100000	reg
+3	fsnd		100004	False	中南	False	100000	reg
+4	fsnd		100005	False	西南	False	100000	reg
+5	fsnd		100006	False	西北	False	100000	reg
+0	fsnd		200001	False	长江三角洲	False	200000	reg
+1	fsnd		200002	False	环渤海地区	False	200000	reg
+2	fsnd		200003	False	泛珠三角	False	200000	reg
+3	fsnd		200004	False	东部地区	False	200000	reg
+4	fsnd		200005	False	西部地区	False	200000	reg
+0	fsnd		800001	False	东北地区	False	800000	reg
+1	fsnd		800002	False	北部沿海	False	800000	reg
+2	fsnd		800003	False	东部沿海	False	800000	reg
+3	fsnd		800004	False	南部沿海	False	800000	reg
+4	fsnd		800005	False	黄河中游	False	800000	reg
+5	fsnd		800006	False	长江中游	False	800000	reg
+6	fsnd		800007	False	西南地区	False	800000	reg
+7	fsnd		800008	False	大西北地区	False	800000	reg
+0	fsnd		900001	False	东部地带	False	900000	reg
+1	fsnd		900002	False	中部地带	False	900000	reg
+2	fsnd		900003	False	西部地带	False	900000	reg
